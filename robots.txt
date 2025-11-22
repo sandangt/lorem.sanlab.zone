@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://lorem.sanlab.zone/sitemap.xml
