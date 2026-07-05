@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>San Dang</title><link>https://lorem.sanlab.zone/</link><description>Recent content on San Dang</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 05 Jul 2026 21:30:42 +0700</lastBuildDate><atom:link href="https://lorem.sanlab.zone/index.xml" rel="self" type="application/rss+xml"/><item><title>Associate Software Engineer</title><link>https://lorem.sanlab.zone/resume/01-fsoft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lorem.sanlab.zone/resume/01-fsoft/</guid><description>&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>San Dang</title><link>https://lorem.sanlab.zone/</link><description>Recent content on San Dang</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 06 Jul 2026 06:42:08 +0700</lastBuildDate><atom:link href="https://lorem.sanlab.zone/index.xml" rel="self" type="application/rss+xml"/><item><title>Associate Software Engineer</title><link>https://lorem.sanlab.zone/resume/01-fsoft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lorem.sanlab.zone/resume/01-fsoft/</guid><description>&lt;ul&gt;
 &lt;li&gt;Leveraged Java technologies (Spring boot framework) to build reliable microservices-based back-end, enhancing system modularity by applying design patterns.&lt;/li&gt;
 &lt;li&gt;Utilized JPA and MySQL to implement layers for database interactions.&lt;/li&gt;
 &lt;li&gt;Built responsive and intuitive front-end interfaces with ReactJS, improving user experience.&lt;/li&gt;
@@ -12,6 +12,7 @@
 &lt;li&gt;Implemented validation system using Python, Faust, Dask.&lt;/li&gt;
 &lt;li&gt;Implemented monolithic module using Spring Boot, ReactJS.&lt;/li&gt;
 &lt;li&gt;Maintained core system using Java, Go.&lt;/li&gt;
+&lt;li&gt;Applied proper data structures and algorithms based on the project&amp;rsquo;s coding standard.&lt;/li&gt;
 &lt;li&gt;Mentored new members.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>String Generator</title><link>https://lorem.sanlab.zone/tools/string-generator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lorem.sanlab.zone/tools/string-generator/</guid><description>Generate random text strings</description></item><item><title>Software Engineer</title><link>https://lorem.sanlab.zone/resume/03-opswat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lorem.sanlab.zone/resume/03-opswat/</guid><description>&lt;ul&gt;
 &lt;li&gt;Main responsibility for the implementation of multiple features.&lt;/li&gt;
@@ -19,10 +20,11 @@
 &lt;li&gt;Collaborated with the QA team to design and implement automation testing suites using Typescript and Playwright.&lt;/li&gt;
 &lt;li&gt;Deployed multiple servers for development and testing environments, including SMTP servers and HTTP proxy servers…, streamlining development workflows.&lt;/li&gt;
 &lt;li&gt;Mentored new members.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Software Engineer</title><link>https://lorem.sanlab.zone/resume/04-stealth-startup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lorem.sanlab.zone/resume/04-stealth-startup/</guid><description>&lt;ul&gt;
+&lt;/ul&gt;</description></item><item><title>Senior Software Engineer</title><link>https://lorem.sanlab.zone/resume/04-stealth-startup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lorem.sanlab.zone/resume/04-stealth-startup/</guid><description>&lt;ul&gt;
 &lt;li&gt;Performed shift-left development approach.&lt;/li&gt;
 &lt;li&gt;Implemented automation testing with Playwright.&lt;/li&gt;
-&lt;li&gt;Planned and implemented multiple features including: full-text search, IAM, server-sent notification …&lt;/li&gt;
+&lt;li&gt;Planned and implemented multiple features including: full-text search, IAM, server-sent notification … in a domain-driven microservices system.&lt;/li&gt;
+&lt;li&gt;Contributed to improve overall application architecture.&lt;/li&gt;
 &lt;li&gt;Implemented monitoring module including tracing, metrics tracking, logging with tempo, prometheus, loki and grafana.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>How I build my homelab</title><link>https://lorem.sanlab.zone/posts/20260114-how-i-build-my-homelab/</link><pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate><guid>https://lorem.sanlab.zone/posts/20260114-how-i-build-my-homelab/</guid><description>&lt;h1 id="overview"&gt;Overview&lt;/h1&gt;
 &lt;p&gt;I always think it&amp;rsquo;s a great idea for every dead serious software developer to personally own a DIY data center, not from cloud provider BS, but a bare metal data center that you can see every solder joins from its mainboard, feel the weights of its CPUs, feel the difficulties of making components work together, etc. Those feelings will make you ascended to higher dimensions.&lt;/p&gt;

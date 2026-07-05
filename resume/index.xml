@@ -12,6 +12,7 @@
 &lt;li&gt;Implemented validation system using Python, Faust, Dask.&lt;/li&gt;
 &lt;li&gt;Implemented monolithic module using Spring Boot, ReactJS.&lt;/li&gt;
 &lt;li&gt;Maintained core system using Java, Go.&lt;/li&gt;
+&lt;li&gt;Applied proper data structures and algorithms based on the project&amp;rsquo;s coding standard.&lt;/li&gt;
 &lt;li&gt;Mentored new members.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Software Engineer</title><link>https://lorem.sanlab.zone/resume/03-opswat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lorem.sanlab.zone/resume/03-opswat/</guid><description>&lt;ul&gt;
 &lt;li&gt;Main responsibility for the implementation of multiple features.&lt;/li&gt;
@@ -19,9 +20,10 @@
 &lt;li&gt;Collaborated with the QA team to design and implement automation testing suites using Typescript and Playwright.&lt;/li&gt;
 &lt;li&gt;Deployed multiple servers for development and testing environments, including SMTP servers and HTTP proxy servers…, streamlining development workflows.&lt;/li&gt;
 &lt;li&gt;Mentored new members.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Software Engineer</title><link>https://lorem.sanlab.zone/resume/04-stealth-startup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lorem.sanlab.zone/resume/04-stealth-startup/</guid><description>&lt;ul&gt;
+&lt;/ul&gt;</description></item><item><title>Senior Software Engineer</title><link>https://lorem.sanlab.zone/resume/04-stealth-startup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lorem.sanlab.zone/resume/04-stealth-startup/</guid><description>&lt;ul&gt;
 &lt;li&gt;Performed shift-left development approach.&lt;/li&gt;
 &lt;li&gt;Implemented automation testing with Playwright.&lt;/li&gt;
-&lt;li&gt;Planned and implemented multiple features including: full-text search, IAM, server-sent notification …&lt;/li&gt;
+&lt;li&gt;Planned and implemented multiple features including: full-text search, IAM, server-sent notification … in a domain-driven microservices system.&lt;/li&gt;
+&lt;li&gt;Contributed to improve overall application architecture.&lt;/li&gt;
 &lt;li&gt;Implemented monitoring module including tracing, metrics tracking, logging with tempo, prometheus, loki and grafana.&lt;/li&gt;
 &lt;/ul&gt;</description></item></channel></rss>
