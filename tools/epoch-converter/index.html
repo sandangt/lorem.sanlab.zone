@@ -6,7 +6,7 @@
 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"/></svg>
 <a href=/tools/>Tools</a>
 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"/></svg></nav><h1 class="post-title entry-hint-parent">Epoch Converter</h1><div class=post-description>Convert Unix timestamp to human-readable dates, vice versa, and find epoch ranges.</div><div class=post-meta><span>0 min</span>&nbsp;·&nbsp;<span></span></div></header><div class=post-content><section class=epoch-section><div class=cur-time-sec><p style=margin-bottom:0>The current <a href=https://en.wikipedia.org/wiki/Unix_time target=_blank rel=noopener>Unix epoch time</a> is <span id=sec1CurrentEpoch>…</span></p><button class=copy-btn onclick=copyCurrentEpoch() title="Copy to clipboard">🗐</button>
-<span id=sec1CopyStatus style=display:none>ꪜ</span></div></section><hr><section class=epoch-section><h2>Convert epoch value to human-readable date and vice versa</h2><div class=input-group><input type=number id=sec2TsInput value=1783294947>
+<span id=sec1CopyStatus style=display:none>ꪜ</span></div></section><hr><section class=epoch-section><h2>Convert epoch value to human-readable date and vice versa</h2><div class=input-group><input type=number id=sec2TsInput value=1783391934>
 <button type=button class=btn onclick=convertTimestampToDate()>Timestamp to readable date</button></div><p class=tool-caption>Supports Unix timestamp in seconds, milliseconds, microseconds and nanoseconds.</p><div id=sec2TsDetailedResult style=display:none><div class=result><p>GMT: <b><span id=sec2ResGmt>...</span></b></p><p>Local timezone: <b><span id=sec2ResLocal>...</span></b></p></div></div><div class=datetime-row><div><span class=lbl>Year</span>
 <input type=number id=sec2InputYr value=2026>
 <span class=sep>-</span>
@@ -14,12 +14,12 @@
 <input type=number id=sec2InputMon value=7>
 <span class=sep>-</span>
 <span class=lbl>Day</span>
-<input type=number id=sec2InputDay value=5>
-<input type=number id=sec2InputHr value=23>
+<input type=number id=sec2InputDay value=7>
+<input type=number id=sec2InputHr value=2>
 <span class=sep>:</span>
-<input type=number id=sec2InputMin value=42>
+<input type=number id=sec2InputMin value=38>
 <span class=sep>:</span>
-<input type=number id=sec2InputSec value=27>
+<input type=number id=sec2InputSec value=54>
 <select id=sec2InputTz><option value=gmt selected>GMT</option><option value=local>Local Time</option></select></div><button type=button class=btn-sm onclick=convertDateToTimestamp()>Date to timestamp</button></div><div id=sec2DateDetailedResult style=display:none><div class=result><p>Epoch timestamp: <b><span class=res-val id=sec2ResDateTs>...</span></b></p><p>Epoch Timestamp in ms: <b><span class=res-val id=sec2ResDateMs>...</span></b></p><p>Date and time (GMT): <b><span class=res-val id=sec2ResDateGmt>...</span></b></p><p>Date and time (Local): <b><span class=res-val id=sec2ResDateLocal>...</span></b></p></div></div></section><hr><section class="epoch-section range-sec"><h2>Epoch values for the start and end of the year/month/day</h2><div class=radio-controls>Show start & end of
 <label><input type=radio name=rangeType value=year> year</label>
 <label><input type=radio name=rangeType value=month checked> month</label>
@@ -27,7 +27,7 @@
 <span class=lbl>-</span>
 <span class=lbl>Month</span><input type=number id=sec3RangeMon value=7>
 <span class=lbl>-</span>
-<span class=lbl>Day</span><input type=number id=sec3RangeDay value=5>
+<span class=lbl>Day</span><input type=number id=sec3RangeDay value=7>
 <select id=rangeTz><option value=GMT>GMT</option><option value=local>Local</option></select>
 <button type=button class=btn-sm onclick=convertRange()>Convert</button></div><div class=result id=sec3RangeOutput style=display:none><p>Start: <b><span id=sec3StartRange>...</span></b></p><p>End: <b><span id=sec3EndRange>...</span></b></p></div></section><hr><section class="epoch-section duration-sec"><h2>Convert seconds to years, months, days, hours and minutes</h2><div class=input-group><input type=number id=sec4DurInput value=1209600>
 <button type=button class=btn-dur onclick=convertDuration()>Seconds to days, hours, minutes</button></div><div class=result id=sec4DurOutput></div></section></div></article></main><a href=#top id=top-link class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey=g><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up"><polyline points="17 11 12 6 7 11"/><polyline points="17 18 12 13 7 18"/></svg>
